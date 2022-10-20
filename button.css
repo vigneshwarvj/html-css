@@ -1,0 +1,35 @@
+.btn {
+	
+padding-top: 9px;
+padding-bottom: 9px;
+
+padding-left: 12 px;
+padding-right: 12px;
+
+background-color:red;
+
+}
+.btn-primary{
+	background-color: #b8b7b8;
+	color: white;
+	border-radius:10px;
+	border-bottom-color:0aa7f5 ;
+	border-top-color: 0aa7f5;
+	border-left-color: 0aa7f5;
+	border-right-color: 0aa7f5;
+	border-style: solid;
+}
+	
+.btn-secondary {
+   background-color: #008dff;
+   color: white;
+   border-radius: 5px;
+   
+   
+}   
+   
+.btn-disabled {
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+}
