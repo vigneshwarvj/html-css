@@ -6,9 +6,11 @@ padding-bottom: 9px;
 padding-left: 12 px;
 padding-right: 12px;
 
-background-color:red;
+
 
 }
+
+margin:4px;
 .btn-primary{
 	background-color: #b8b7b8;
 	color: white;
